@@ -29,7 +29,7 @@ struct ContentView: View {
                 
                 
                 
-                Text("Honna Solomon")
+                Text("Honna, Solomon")
                     .font(.title)
                     .foregroundColor(Color.black)
                     .padding()
